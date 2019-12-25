@@ -1,0 +1,14 @@
+
+ Команда add дозволяє додавати файли.
+ Status перевірка файлів.
+ commit фіксування змін.
+ Init ініціалізація з гітом.
+ Список змін.
+ Checkout для переходу між гілками.
+ Reset відновити попереднє зміни.
+ Status перевірка файлів.
+ Git reset
+ Git branch "назва гілки".
+ Git checkout.
+ Git checkout master.
+ Git merge.
